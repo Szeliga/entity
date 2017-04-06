@@ -75,3 +75,5 @@ _testmain.go
 
 *.exe
 *.csv
+vendor
+entity
